@@ -1,6 +1,6 @@
 # hermite-arcs-patches
 
-This is a university project for our Graphics class I undertook with 2 classmates, that uses technologies such as OpenGL and Qt and implements the rendering and manipulation of Cubic Hermite arcs and Bicubic Hermite patches. 
+This is a university project for our Computer-Aided Graphics class I undertook with 2 classmates, that uses technologies such as OpenGL and Qt and implements the rendering and manipulation of Cubic Hermite arcs and Bicubic Hermite patches. 
 More precisely:
 1. interactive rendering of an isolated arc: points, first and second
 order derivatives
